@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import styles from './Faqs.module.scss';
 import { Row, Col } from 'reactstrap';
 import { Collapse } from 'antd';
 import './OverRide.scss';
-import { Animated } from 'react-animated-css';
 import { PlusOutlined } from '@ant-design/icons';
 import { MinusOutlined } from '@ant-design/icons';
 import ScrollAnimation from 'react-animate-on-scroll';

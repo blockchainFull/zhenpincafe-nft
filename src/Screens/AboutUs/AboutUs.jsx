@@ -1,13 +1,10 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Col, Row } from 'reactstrap';
 import styles from './AboutUs.module.scss';
-import { Animated } from 'react-animated-css';
-import { useWindowScrollPositions } from '../../Components/Scrolls/Scrolls';
 import ScrollAnimation from 'react-animate-on-scroll';
 import "animate.css/animate.min.css";
 
 const AboutUs = () => {
-  const { scrollX, scrollY } = useWindowScrollPositions();
   return (
     <div className={`${styles.main_about}`} id="aboutus">
       <Row>

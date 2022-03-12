@@ -1,8 +1,8 @@
+/* eslint-disable react/jsx-no-target-blank */
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from 'react';
 import styles from './Heading.module.scss';
 import { Row, Col } from 'reactstrap';
-import { Animated } from 'react-animated-css';
 import 'react-toastify/dist/ReactToastify.css';
 import { useWindowScrollPositions } from '../../Components/Scrolls/Scrolls';
 import './OverRide.scss';

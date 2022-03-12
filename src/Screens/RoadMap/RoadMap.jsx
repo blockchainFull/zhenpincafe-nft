@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from './RoadMap.module.scss';
 import { Row, Col } from 'reactstrap';
-import { Animated } from 'react-animated-css';
 import ScrollAnimation from 'react-animate-on-scroll';
 import "animate.css/animate.min.css";
 

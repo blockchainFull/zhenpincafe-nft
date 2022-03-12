@@ -4,7 +4,6 @@ import AboutUs from './Screens/AboutUs/AboutUs';
 import Heading from './Screens/Heading/Heading';
 import Home from './Screens/Home/Home';
 import Works from './Screens/Works/Works';
-import Team from './Screens/Team/Team';
 import RoadMap from './Screens/RoadMap/RoadMap';
 import Faqs from './Screens/Faqs/Faqs';
 import Partners from './Screens/Partners/Partners';

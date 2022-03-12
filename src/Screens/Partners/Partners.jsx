@@ -1,7 +1,7 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import { Row, Col } from 'reactstrap';
 import styles from './Partners.module.scss';
-import { ReactSVG } from 'react-svg';
 
 const Partners = () => {
   return (
