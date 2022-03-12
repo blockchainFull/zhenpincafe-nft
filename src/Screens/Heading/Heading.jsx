@@ -164,7 +164,7 @@ const Heading = ({onClickConnectWallet, onClickDisconnectWallet, walletAddress})
         <Col sm={12} md={8}>
           <div className={styles.bunniesContent}>
             <h1>
-              BESt <br />
+              BEST <br />
               BUBBLE TEA <br />
               IN NY CITY
             </h1>
